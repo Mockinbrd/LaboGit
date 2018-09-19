@@ -1,3 +1,2 @@
 # LaboGit
-Ceci est une phrase. Ah oui.
-Modification. Encore 2.
+Ceci est une phrase. Ah oui. Encore
